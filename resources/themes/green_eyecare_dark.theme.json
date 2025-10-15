@@ -50,7 +50,14 @@
       "inactiveBackground": "background",
       "focusColor": "background",
       "windowBorder": "background",
-      "borderColor": "background"
+      "borderColor": "background",
+      "foreground": "foreground"
+    },
+    "EditorTabs": {
+      "underlineColor": "pointColor",
+      "underlinedTabBackground": "backgroundHighlight",
+      "underlinedTabForeground": "pointColor",
+      "hoverBackground": "background"
     }
   }
 }
