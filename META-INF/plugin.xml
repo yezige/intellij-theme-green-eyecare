@@ -1,17 +1,17 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
-  <name>Plugin display name here</name>
+  <id>intellij-theme-green-eyecare</id>
+  <name>Eyecare Green Dark</name>
   <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="a@liu.app" url="https://liu.app">liu.app</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      New support for dark theme, Material Green Eyecare Theme.
+        <br>
+        ![Screenshots](https://raw.githubusercontent.com/yezige/intellij-theme-green-eyecare/master/screenshots/preview_2.png)
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+      Initial release of the theme.
     ]]>
   </change-notes>
 

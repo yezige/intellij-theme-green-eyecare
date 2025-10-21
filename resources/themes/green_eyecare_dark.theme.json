@@ -53,6 +53,10 @@
       "borderColor": "background",
       "foreground": "foreground"
     },
+    "Panel": {
+      "foreground": "foreground",
+      "background": "background"
+    },
     "EditorTabs": {
       "underlineColor": "pointColor",
       "underlinedTabBackground": "backgroundHighlight",

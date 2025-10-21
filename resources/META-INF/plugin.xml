@@ -10,15 +10,16 @@
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor url="https://www.yourcompany.com">YourCompany</vendor>
+    <vendor url="https://liu.app">liu.app</vendor>
 
     <idea-version since-build="251"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
     <description><![CDATA[
-        Enter short description for your theme here.<br>
-        <em>most HTML tags may be used</em>
+        New support for dark theme, Material Green Eyecare Theme.
+        <br>
+        ![Screenshots](https://raw.githubusercontent.com/yezige/intellij-theme-green-eyecare/master/screenshots/preview_2.png)
     ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
