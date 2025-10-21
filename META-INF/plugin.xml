@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>intellij-theme-green-eyecare</id>
   <name>Eyecare Green Dark</name>
-  <version>1.0</version>
+  <version>1.0.0</version>
   <vendor email="a@liu.app" url="https://liu.app">liu.app</vendor>
 
   <description><![CDATA[
