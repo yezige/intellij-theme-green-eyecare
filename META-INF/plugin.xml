@@ -6,14 +6,13 @@
 
   <description><![CDATA[
       New support for dark theme, Material Green Eyecare Theme.
-        <br>
-        ![Screenshots](https://raw.githubusercontent.com/yezige/intellij-theme-green-eyecare/master/screenshots/preview_2.png)
-    ]]></description>
+      <br>
+      ![Screenshots](https://raw.githubusercontent.com/yezige/intellij-theme-green-eyecare/master/screenshots/preview_2.png)
+  ]]></description>
 
   <change-notes><![CDATA[
       Initial release of the theme.
-    ]]>
-  </change-notes>
+  ]]></change-notes>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
   <idea-version since-build="173.0"/>
